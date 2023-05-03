@@ -1,1 +1,1 @@
-Uses interfaces to create multiple "board" classes, used for simple games and puzzles.
+Uses interfaces to create multiple "board" classes, used for simple games and puzzles, illustrated in Swing.
