@@ -1,0 +1,12 @@
+---
+:id: 145910931
+:submitters:
+- :name: Gavin Boland
+  :email: bolandgr@dukes.jmu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-11-02 21:12:19.380512000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-11-02 14:12:19.380512000 Z
+:status: processed
+:score: 70.0
